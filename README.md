@@ -1,3 +1,10 @@
 # Machine-learning-projects
 This folder contains following projects:
- - AutomaticEssayGrader
+ - Automatic Essay Grader
+
+Not updated yet:
+ - Anomaly Detection
+ - Fraud Detection
+ - Sentiment Analysis
+ - Error Prioritizing
+ - Forecasting
