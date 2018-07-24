@@ -8,3 +8,4 @@ Not updated yet:
  - Sentiment Analysis
  - Error Prioritizing
  - Forecasting
+ - Recommendar Systems
