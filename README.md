@@ -2,7 +2,7 @@
 This folder contains following projects:
  - Automatic Essay Grader
 
-Not updated yet:
+On the way:
  - Anomaly Detection
  - Fraud Detection
  - Sentiment Analysis
