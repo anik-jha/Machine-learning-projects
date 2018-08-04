@@ -9,3 +9,4 @@ On the way:
  - Error Prioritizing
  - Forecasting
  - Recommendar Systems
+ - Survey Analysis
